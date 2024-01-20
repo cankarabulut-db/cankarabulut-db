@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/cankarabulut-db?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-[![nkarabul's 42 stats](https://badge.mediaplus.ma/levi/nkarabul?UM6P=off)](https://github.com/oakoudad/badge42)
+[![nkarabul's 42 stats](https://badge.mediaplus.ma/levi/nkarabul?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <a href="http://www.github.com/cankarabulut-db"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cankarabulut-db&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
